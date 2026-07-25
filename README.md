@@ -19,7 +19,7 @@ I devoured everything I could find — free tutorials, documentation, YouTube vi
 
 ### Today (2026)
 
-Two years into my coding journey, I've evolved from a curious beginner to a developer who can architect complete web applications. I'm proficient in:
+More than a year into my coding journey, I've evolved from a curious beginner to a developer who can architect complete web applications. I'm proficient in:
 
 - **Frontend Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 - **Backend Development:** PHP, MySQL, Node.js, Express
@@ -44,7 +44,7 @@ My journey is still young but already full of momentum. I'm currently working on
 - Contributing to open source projects that align with my values
 - Helping businesses in Uganda and beyond establish their digital presence
 
-I started in 2024, but I'm building for the long haul. This is just the beginning.
+I started in 2025, but I'm building for the long haul. This is just the beginning.
 
 > 💡 "The best product starts with solving one real problem. The rest is just code."
 
